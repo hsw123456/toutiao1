@@ -130,9 +130,9 @@ public class MultiThread {
 
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         //testThread();
         //testBlockingQueue();
         testThreadLocal();
-    }
+    }*/
 }
